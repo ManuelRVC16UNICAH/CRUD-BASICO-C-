@@ -1,0 +1,15 @@
+C:\Users\mana_\OneDrive\Desktop\pruebas c#\Pruebas diarias\Pruebas diarias\bin\Debug\Pruebas diarias.exe.config
+C:\Users\mana_\OneDrive\Desktop\pruebas c#\Pruebas diarias\Pruebas diarias\bin\Debug\Pruebas diarias.exe
+C:\Users\mana_\OneDrive\Desktop\pruebas c#\Pruebas diarias\Pruebas diarias\bin\Debug\Pruebas diarias.pdb
+C:\Users\mana_\OneDrive\Desktop\pruebas c#\Pruebas diarias\Pruebas diarias\obj\Debug\Pruebas diarias.csproj.AssemblyReference.cache
+C:\Users\mana_\OneDrive\Desktop\pruebas c#\Pruebas diarias\Pruebas diarias\obj\Debug\Pruebas_diarias.Form1.resources
+C:\Users\mana_\OneDrive\Desktop\pruebas c#\Pruebas diarias\Pruebas diarias\obj\Debug\Pruebas_diarias.Properties.Resources.resources
+C:\Users\mana_\OneDrive\Desktop\pruebas c#\Pruebas diarias\Pruebas diarias\obj\Debug\Pruebas diarias.csproj.GenerateResource.cache
+C:\Users\mana_\OneDrive\Desktop\pruebas c#\Pruebas diarias\Pruebas diarias\obj\Debug\Pruebas diarias.csproj.CoreCompileInputs.cache
+C:\Users\mana_\OneDrive\Desktop\pruebas c#\Pruebas diarias\Pruebas diarias\obj\Debug\Pruebas diarias.exe
+C:\Users\mana_\OneDrive\Desktop\pruebas c#\Pruebas diarias\Pruebas diarias\obj\Debug\Pruebas diarias.pdb
+C:\Users\mana_\OneDrive\Desktop\pruebas c#\Pruebas diarias\Pruebas diarias\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mana_\OneDrive\Desktop\pruebas c#\Pruebas diarias\Pruebas diarias\bin\Debug\itextsharp.dll
+C:\Users\mana_\OneDrive\Desktop\pruebas c#\Pruebas diarias\Pruebas diarias\bin\Debug\itextsharp.xml
+C:\Users\mana_\OneDrive\Desktop\pruebas c#\Pruebas diarias\Pruebas diarias\obj\Debug\Pruebas .7A3B7A75.Up2Date
+C:\Users\mana_\OneDrive\Desktop\pruebas c#\Pruebas diarias\Pruebas diarias\obj\Debug\Pruebas diarias.exe.config

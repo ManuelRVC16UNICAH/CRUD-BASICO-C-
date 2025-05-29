@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pruebas diarias", "Pruebas diarias\Pruebas diarias.csproj", "{6C0C61BC-DB93-4878-A5C3-EACA8FC10C5E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Capa Presentacion", "Capa Presentacion", "{EA31660A-C24C-4B2E-96D0-AB7798117F67}"
+	ProjectSection(SolutionItems) = preProject
+		Pruebas diarias\Form1.cs = Pruebas diarias\Form1.cs
+		Pruebas diarias\Form1.Designer.cs = Pruebas diarias\Form1.Designer.cs
+		Pruebas diarias\Form1.resx = Pruebas diarias\Form1.resx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C0C61BC-DB93-4878-A5C3-EACA8FC10C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C0C61BC-DB93-4878-A5C3-EACA8FC10C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C0C61BC-DB93-4878-A5C3-EACA8FC10C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C0C61BC-DB93-4878-A5C3-EACA8FC10C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68000A7A-42BB-48D0-A04A-BDC77788FF41}
+	EndGlobalSection
+EndGlobal
